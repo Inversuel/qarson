@@ -23,11 +23,11 @@ Na pojedynczy samochód składają się następujące informacje:
 
 Jeżeli samochód jest niedostępny, dany kafelek powinien to odzwierciedlać.
 
-Na każdym kafelku chcemy żeby znalazł się przycisk zmieniający **dostępność** danego samochodu.
+Na każdym kafelku chcemy żeby znalazł się przycisk zmieniający **dostępność** na przykład przycisk `add to cart`.
 Kliknięcie na niego powinno spowodować zmianę stanu **dostępności** danego samochodu.
 
 Oprócz tego, przy każdym z aut powinien znaleźć się przycisk **usuń**,
-który, po kliknięciu powoduje usunięcie auta.
+który, po kliknięciu powoduje usunięcie auta z listy.
 
 Aplikacja powinna być napisana w taki sposób aby umożliwiać jej przegląd zarówno w przeglądarce jak i na urządzeniach **mobilnych**.
 Aplikacja powinna zostać pokryta **testami**.
@@ -60,7 +60,7 @@ Podejmiemy się oceny Twojego kodu pod kątem:
 - znajomości języka i wachlarz funkcji natywnych które używasz
 - ustrukturyzowania i organizacji kodu w plikach
 - dbania o czytelność kodu - kod powinien być napisany zgodnie ze standardem https://standardjs.com/
-- testy
+- jakości napisanych testów
 - zgodności rozwiązania z treścią zadania
 
 ### Wskazówki
