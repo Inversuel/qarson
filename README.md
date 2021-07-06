@@ -10,7 +10,7 @@ Rozwiązanie zadania chcielibyśmy otrzymać w terminie **7 dni**.
 
 ### Opis aplikacji
 
-Potrzebujemy aplikacji napisanej w języku **javascript**, która zaprezentuje dane samochodów bazując na pliku _data.json_ w postaci kafelków na stronie.
+Potrzebujemy aplikacji, która zaprezentuje dane samochodów bazując na pliku _data.json_ w postaci kafelków na stronie.
 
 Na pojedynczy samochód składają się następujące informacje:
 
@@ -32,7 +32,7 @@ który, po kliknięciu powoduje usunięcie auta.
 Aplikacja powinna być napisana w taki sposób aby umożliwiać jej przegląd zarówno w przeglądarce jak i na urządzeniach **mobilnych**.
 Aplikacja powinna zostać pokryta **testami**.
 
-Do napisania aplikacji użyj składni ECMA Script 6 lub nowszej, przy wykorzystaniu RactaJS lub JavaScript/TypeScript.
+Do napisania aplikacji użyj RactaJS najlepiej w połącznieu z Typescriptem lub czystego Typscript ewnetulanie JavaScript.
 
 ### Wygląd
 
@@ -60,6 +60,7 @@ Podejmiemy się oceny Twojego kodu pod kątem:
 - znajomości języka i wachlarz funkcji natywnych które używasz
 - ustrukturyzowania i organizacji kodu w plikach
 - dbania o czytelność kodu - kod powinien być napisany zgodnie ze standardem https://standardjs.com/
+- testy
 - zgodności rozwiązania z treścią zadania
 
 ### Wskazówki
