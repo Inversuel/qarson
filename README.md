@@ -77,6 +77,6 @@ Podejmiemy się oceny Twojego kodu pod kątem:
 
 Prosimy Cię o utworzenie kopii (NIE FORK'a) aktualnego repozytorium na bitbuckecie / githubie / gitlabie oraz wysłanie adresu repozytorium na adres: developers.php@edpauto.com.
 
-Pracuj na gałęzi odchodzącej od mastera. Zespół chciałby wykonać CODE review projektu, który wykonujesz.
+Pracuj na gałęzi odchodzącej od mastera. Zespół chciałby wykonać code review projektu, który wykonujesz.
 
 Powodzenia
