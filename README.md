@@ -23,7 +23,7 @@ Na pojedynczy samochód składają się następujące informacje:
 
 Jeżeli samochód jest niedostępny, dany kafelek powinien to odzwierciedlać.
 
-Na każdym kafelku chcemy żeby znalazł się przycisk zmieniający **dostępność** na przykład przycisk `add to cart`.
+Na każdym kafelku chcemy żeby znalazł się przycisk zmieniający **dostępność** na przykład `add to cart`.
 Kliknięcie na niego powinno spowodować zmianę stanu **dostępności** danego samochodu.
 
 Oprócz tego, przy każdym z aut powinien znaleźć się przycisk **usuń**,
