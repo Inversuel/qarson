@@ -6,7 +6,7 @@ Prosimy Cię o wykonanie aplikacji js oraz ostylowanie elementów interfejsu uż
 przy użyciu css lub sass/less.
 Po otrzymaniu Twojego kodu, który ma być odpowiedzią na poniższe zadanie będziemy chcieli ocenić Twój potencjał.
 
-Rozwiązanie zadania chcielibyśmy otrzymać w terminie **7 dni**.
+Rozwiązanie zadania chcielibyśmy otrzymać w terminie **4 dni**.
 
 ### Opis aplikacji
 
