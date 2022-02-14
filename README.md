@@ -32,7 +32,7 @@ który, po kliknięciu powoduje usunięcie auta z listy.
 Aplikacja powinna być napisana w taki sposób aby umożliwiać jej przegląd zarówno w przeglądarce jak i na urządzeniach **mobilnych**.
 Aplikacja powinna zostać pokryta **testami**.
 
-Do napisania aplikacji użyj RactaJS najlepiej w połącznieu z Typescriptem lub czystego Typscript ewnetulanie JavaScript.
+Do napisania aplikacji użyj ReactJS najlepiej w połącznieu z Typescriptem lub czystego Typscript ewnetulanie JavaScript.
 
 ### Wygląd
 
