@@ -1,0 +1,79 @@
+$bg-color: rgba(228, 228, 228, 0.25);
+$bg-color-card: rgb(8, 8, 8);
+
+.App{
+  width: 100%;
+  background-color: $bg-color;
+}
+.cards{
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.card{
+  margin : auto;
+  max-width: 400px;
+  min-width: 350px;
+  overflow : hidden;
+  border-radius : 20px;
+  background : white;
+  margin-top:50px;
+  transition: all .2s;
+  box-shadow:5px 5px 15px rgba(0,0,0, .3);
+
+
+  .image{
+    max-width:100% ;
+    border-radius: inherit;
+    font-size: 1.2rem;
+    line-height: 50px;
+    text-align: center;
+  }
+  h1, p{
+    margin:10px 15px 15px 10px
+  }
+  p{
+    width: 60%
+  }
+}
+
+.cardAvailability{
+  &:hover{
+    scale:0.94;
+    box-shadow: 5px 5px 30px 7px rgba(122, 238, 138, 0.22);
+  }
+}
+
+.cardDisable{
+  &:hover{
+    scale:0.94;
+    box-shadow: 5px 5px 30px 7px rgba(241, 79, 79, 0.22);
+  }
+}
+
+.buttonGroup{
+  width: 100%;
+  cursor: pointer;
+  button{
+    width: 50%;
+    border:none;
+  }
+  .deleteButton{
+    background-color: rgb(255, 0, 0,0.50);
+  cursor: pointer;
+    
+  }
+  .deactivateButton{
+    background-color: red;
+  cursor: pointer;
+
+  }
+  
+  .activeButton{
+    background-color: lightgreen;
+  cursor: pointer;
+
+  }
+
+}
