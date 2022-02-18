@@ -22,11 +22,3 @@ Runs E2E test without UI.\
 ### `yarn testWithUi`
 
 Runs E2E test with UI.\
-
-
-
-"startdev": "npx json-server --watch --port 8000 data/data.json",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "testWithUi": "run cypress open",
-    "test": "run cypress run",
